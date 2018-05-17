@@ -6,7 +6,7 @@ Compiled File: https://github.com/RealSvildr/gifCreator/blob/master/GifCreator.e
 How to Use:
  - Drop the images you are gonna use in the gif, inside
  - (Optional) Set a timer between the frames
- - (Optional) If the gif is going to go forward then backward select "Forward" option
+ - (Optional) If the gif is going to go forward then backward, select "Forward" option
  - Press Preview to See if you like it
  - Adjust the way you prefer then Save or Preview Again
 ```
